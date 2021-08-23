@@ -1,11 +1,12 @@
 body {
-    background-color: lightcoral;
+    background-color: lightblue;
     
 }
 
 h1 {
     font-size: 100px;
     font-family: 'Bebas Neue', cursive;
+    text-align: center;
 }
 
 h2 {
@@ -20,4 +21,8 @@ p {
     float:right;
     border-radius: 20%;
 
+}
+
+li {
+    font-size: 40px;
 }
