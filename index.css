@@ -1,0 +1,22 @@
+body {
+    background-color: lightcoral;
+    
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#mathusan {
+    float:right;
+
+}
