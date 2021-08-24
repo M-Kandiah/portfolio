@@ -28,3 +28,36 @@ p {
 li {
     font-size: 40px;
 }
+
+td, th {
+    font-size: 34px;
+    border: 1px solid black;
+}
+
+table {
+    font-size: 34px;
+    border: 2px solid black;
+}
+
+td {
+    color:navy;
+}
+
+#nav {
+    font-size: 30px;
+}
+
+a::after{
+    
+    content: " | ";
+
+}
+
+
+
+/* Attribute selector
+[href="/aboutme"] {
+    color: olive;
+}
+
+*/
